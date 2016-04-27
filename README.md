@@ -1,1 +1,2 @@
-# verkefni1b
+# Verkefni1b 
+þetta er ........
