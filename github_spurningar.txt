@@ -1,1 +1,1 @@
-
+1) Hvað gera eftirfarandi git skipanir:
