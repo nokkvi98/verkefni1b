@@ -1,0 +1,33 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+
+
+2. Hvað gera eftirfarandi git skipanir:
+
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+
+
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+
+6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT,
+   til hvers eru þau?

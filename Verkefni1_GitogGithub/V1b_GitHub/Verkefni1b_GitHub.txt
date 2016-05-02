@@ -1,4 +1,4 @@
-﻿Github - 5%
+Github - 5%
 
 Verkefnið:
 
@@ -16,20 +16,20 @@ https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 	b) Push, Syncing repository (local to remote)
 
-		I)		Búðu til tómt repository á GitHub sem heitir verkefni1b OK
+		I)		Búðu til tómt repository á GitHub sem heitir verkefni1b
 
-		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). ?
+		II)		færðu master branch úr verkefni1a (local) yfir á github (remote).
 
 
 	c) Pull, syncing repository (remote to local)
 
-		I) 		Búðu til nýja skrá sem heitir github_spurningar.txt beint á GitHub repository ok
+		I) 		Búðu til nýja skrá sem heitir github_spurningar.txt beint á GitHub repository
 
-		II)		Afritaðu fyrstu spurningu úr skránni github_fra_kennara.txt ok
+		II)		Afritaðu fyrstu spurningu úr skránni github_fra_kennara.txt
 
-		III) 	bættu við commit message: Create file and add first question ok
+		III) 	bættu við commit message: Create file and add first question
 
-		IV) 	Notaðu pull til þessa að uppfæra local repository, github_spurningar. ok
+		IV) 	Notaðu pull til þessa að uppfæra local repository, github_spurningar.
 
 
 2)	Forking

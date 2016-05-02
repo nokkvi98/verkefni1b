@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hvað gera eftirfarandi git skipanir:
+=======
+
+>>>>>>> 986ce8fd95d06d54dad79b65a2c9fc85d4481502

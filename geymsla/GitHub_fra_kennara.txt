@@ -1,0 +1,28 @@
+GitHub spurningar:
+
+1) Hvað gera eftirfarandi git skipanir:
+
+	git remote
+	git remote add param1 param3
+	git remote -v
+	git push param1 param2
+
+
+2)  Hvað gera eftirfarandi git skipun:
+
+	git pull param1 param2
+	
+3) Hver er munurinn á fork á GitHub og git clone?
+
+
+4) Conflicting Collaboration (out of sync) gerist þegar:
+
+	a) Einstaklingur með mismunandi commits af kóða í tölvum (t.d. heima og skóla) 
+	b) í samvinnu (hópvinnu) tvö eða fleiri commit á sama branch í einu.
+
+	Hvernig komum við í veg fyrir ónauðsynlega conflicta?
+	Hvernig leysum við úr conflict aðstæðum?
+
+5) Hvenær ætti maður að gera breytingar í sér grein ,,branch" fremur en beint á master grein í hópvinnu og hvenær ekki svona útfrá branching vinnuflæði?
+
+6) Hverjar eru helstu reglur og kostir í GitHub flow? skv. eftirfarandi grein: http://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344
