@@ -1,0 +1,97 @@
+Github - 5%
+
+Verkefnið:
+
+Fylgdu eftir, lesson 3 í How to Use Git and GitHub:
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
+
+1)	
+
+	a) Skráðu þig á Github (búðu til account) https://github.com/ 
+ 	
+ 		Valkvæmt: Notaðu password caching (credential helper eða SSH key) svo þú þarft ekki alltaf að nota password.
+		https://help.github.com/articles/caching-your-github-password-in-git/
+
+
+	b) Push, Syncing repository (local to remote)
+
+		I)		Búðu til tómt repository á GitHub sem heitir verkefni1b OK
+
+		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). ok
+
+
+	c) Pull, syncing repository (remote to local)
+
+		I) 		Búðu til nýja skrá sem heitir github_spurningar.txt beint á GitHub repository ok
+
+		II)		Afritaðu fyrstu spurningu úr skránni github_fra_kennara.txt ok
+
+		III) 	bættu við commit message: Create file and add first question ok
+
+		IV) 	Notaðu pull til þessa að uppfæra local repository, github_spurningar. ok
+
+
+2)	Forking
+
+
+	a) 	Notaðu fork skipun til að ná í Larry's recipies repository sem fjallað er  um í Lesson 3.  https://github.com/LarryMad/recipes
+
+
+	b) 
+		I) 	Notaðu git clone til að færa yfir í tölvuna (local repository) til að geta breytt uppskriftinni í editor. Þá færðu nýtt repository (recipes mappa með 4 skrám). OK
+	
+		II) Notaðu git remote -v til að fá staðfest að remote vensl á milli local og remote á Github. OK
+
+	 
+
+3)	Að tækla conflicting í GitHub (tveir að vinna samtímis) t.d eitt commit local og annað commit remote (á GitHub)
+
+	a)	Local changes
+		Breyttu chili recipe í local repository, chili-recipe.txt sbr. lesson 3
+
+		I) bættu við nýju kryddi (pipar) við listann  OK
+		II) Breyttu aðferðinni í step 2 (bættu við pipar) OK
+		III) Notaðu git Diff til að sjá breytingarnar OK
+		IV) gerðu commmit (en ekki push strax) með skilaboðunum "Add pipar to list and step 2" OK
+
+	b)	Remote changes  
+		Náðu í sarah_changes.sh og fylgdu leiðbeiningum í lesson 3 (simulate Sarah´s Changes) með bash skipun. 
+		Á GitHub ætti nú að sjást commit með skilaboðunum 	"Remove cumin from chili" sem Sarah gerði. 
+		Nú eru tvö commit samtímis í gangi sem skapar árekstur sem þaf að leysa í næsta lið c) 
+
+	c)  Merging local and remote changes
+
+		I) Notaðu git pull (eða git fetch og git merge) til að sækja remote commit to local)
+		II) opnaðu svo skránna chili-recipe.txt og lagaðu commit conflicta (hafa pipar í uppskrift en fjarlægja cumin).
+		III) Notaðu git push til að uppfæra á GitHub.
+
+
+
+4) 	Branching strategy (vinnuflæði)
+	
+   	I) 	Kláraðu að skoða sýnidæmið í lesson 3 sem snýr að branching (different-oil).
+
+   	II) lestu eftirfarandi grein:
+   		Choose the right Git branching strategy (vinnuflæði).
+   		http://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344
+
+
+5)  Afritaðu allar spurningar úr skránni github_fra_kennara.txt í local repository, svaraðu þeim öllum og uppfærðu með push skipun á GitHub OK :D
+
+
+Námsmat og skil:
+Hver liður (1-5) gildir 1%. 
+
+Gefið er fullt fyrir fullnægjandi svör og virkni, hálft ef svör/virkni vantar eða er ábótavant.
+
+Skilaðu á Innu GitHub link á verkefni1b (ásamt svörum) og recepie repositories.
+
+
+
+Ítarefni: 
+Pro git bók (frí) hýst á GitHub: https://github.com/progit/progit2 
+
+
+
+
