@@ -18,54 +18,50 @@ https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 		I)		Búðu til tómt repository á GitHub sem heitir verkefni1b OK
 
-<<<<<<< HEAD
-		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). ?
+		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). OK
 =======
-		II)		færðu master branch úr verkefni1a (local) yfir á github (remote).
->>>>>>> ee036478b6075f53a106c62b4b0cb64a25107741
+		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). OK
 
 
 	c) Pull, syncing repository (remote to local)
 
-<<<<<<< HEAD
 		I) 		Búðu til nýja skrá sem heitir github_spurningar.txt beint á GitHub repository ok
 
 		II)		Afritaðu fyrstu spurningu úr skránni github_fra_kennara.txt ok
 
-		III) 	bættu við commit message: Create file and add first question 
+		III) 	bættu við commit message: Create file and add first question  OK
 =======
-		I) 		Búðu til nýja skrá sem heitir github_spurningar.txt beint á GitHub repository
+		I) 		Búðu til nýja skrá sem heitir github_spurningar.txt beint á GitHub repository OK
 
-		II)		Afritaðu fyrstu spurningu úr skránni github_fra_kennara.txt
+		II)		Afritaðu fyrstu spurningu úr skránni github_fra_kennara.txt OK
 
-		III) 	bættu við commit message: Create file and add first question
->>>>>>> ee036478b6075f53a106c62b4b0cb64a25107741
+		III) 	bættu við commit message: Create file and add first question OK 
 
-		IV) 	Notaðu pull til þessa að uppfæra local repository, github_spurningar.
+		IV) 	Notaðu pull til þessa að uppfæra local repository, github_spurningar. OK
 
 
 2)	Forking
 
 
-	a) 	Notaðu fork skipun til að ná í Larry's recipies repository sem fjallað er  um í Lesson 3.  https://github.com/LarryMad/recipes
+	a) 	Notaðu fork skipun til að ná í Larry's recipies repository sem fjallað er  um í Lesson 3.  https://github.com/LarryMad/recipes OK
 
 
 	b) 
-		I) 	Notaðu git clone til að færa yfir í tölvuna (local repository) til að geta breytt uppskriftinni í editor. Þá færðu nýtt repository (recipes mappa með 4 skrám). 
+		I) 	Notaðu git clone til að færa yfir í tölvuna (local repository) til að geta breytt uppskriftinni í editor. Þá færðu nýtt repository (recipes mappa með 4 skrám). OK
 	
-		II) Notaðu git remote -v til að fá staðfest að remote vensl á milli local og remote á Github.
+		II) Notaðu git remote -v til að fá staðfest að remote vensl á milli local og remote á Github. OK
 
 	 
 
 3)	Að tækla conflicting í GitHub (tveir að vinna samtímis) t.d eitt commit local og annað commit remote (á GitHub)
 
 	a)	Local changes
-		Breyttu chili recipe í local repository, chili-recipe.txt sbr. lesson 3
+		Breyttu chili recipe í local repository, chili-recipe.txt sbr. lesson 3 OK
 
-		I) bættu við nýju kryddi (pipar) við listann 
-		II) Breyttu aðferðinni í step 2 (bættu við pipar)
-		III) Notaðu git Diff til að sjá breytingarnar 
-		IV) gerðu commmit (en ekki push strax) með skilaboðunum "Add pipar to list and step 2"
+		I) bættu við nýju kryddi (pipar) við listann OK
+		II) Breyttu aðferðinni í step 2 (bættu við pipar) OK
+		III) Notaðu git Diff til að sjá breytingarnar OK
+		IV) gerðu commmit (en ekki push strax) með skilaboðunum "Add pipar to list and step 2" OK
 
 	b)	Remote changes  
 		Náðu í sarah_changes.sh og fylgdu leiðbeiningum í lesson 3 (simulate Sarah´s Changes) með bash skipun. 

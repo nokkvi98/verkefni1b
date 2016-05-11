@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hvað gera eftirfarandi git skipanir:
 =======
 
 >>>>>>> 986ce8fd95d06d54dad79b65a2c9fc85d4481502
+=======
+1) HvaÃ° gera eftirfarandi git skipanir:
+>>>>>>> ee036478b6075f53a106c62b4b0cb64a25107741
