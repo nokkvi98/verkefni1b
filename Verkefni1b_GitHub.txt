@@ -1,4 +1,4 @@
-﻿Github - 5%
+Github - 5%
 
 Verkefnið:
 
@@ -18,7 +18,7 @@ https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 		I)		Búðu til tómt repository á GitHub sem heitir verkefni1b OK
 
-		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). ?
+		II)		færðu master branch úr verkefni1a (local) yfir á github (remote). ok
 
 
 	c) Pull, syncing repository (remote to local)
@@ -39,9 +39,9 @@ https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 
 	b) 
-		I) 	Notaðu git clone til að færa yfir í tölvuna (local repository) til að geta breytt uppskriftinni í editor. Þá færðu nýtt repository (recipes mappa með 4 skrám). 
+		I) 	Notaðu git clone til að færa yfir í tölvuna (local repository) til að geta breytt uppskriftinni í editor. Þá færðu nýtt repository (recipes mappa með 4 skrám). OK
 	
-		II) Notaðu git remote -v til að fá staðfest að remote vensl á milli local og remote á Github.
+		II) Notaðu git remote -v til að fá staðfest að remote vensl á milli local og remote á Github. OK
 
 	 
 
@@ -50,15 +50,15 @@ https://www.udacity.com/course/how-to-use-git-and-github--ud775
 	a)	Local changes
 		Breyttu chili recipe í local repository, chili-recipe.txt sbr. lesson 3
 
-		I) bættu við nýju kryddi (pipar) við listann 
-		II) Breyttu aðferðinni í step 2 (bættu við pipar)
-		III) Notaðu git Diff til að sjá breytingarnar 
-		IV) gerðu commmit (en ekki push strax) með skilaboðunum "Add pipar to list and step 2"
+		I) bættu við nýju kryddi (pipar) við listann  OK
+		II) Breyttu aðferðinni í step 2 (bættu við pipar) OK
+		III) Notaðu git Diff til að sjá breytingarnar OK
+		IV) gerðu commmit (en ekki push strax) með skilaboðunum "Add pipar to list and step 2" OK
 
 	b)	Remote changes  
 		Náðu í sarah_changes.sh og fylgdu leiðbeiningum í lesson 3 (simulate Sarah´s Changes) með bash skipun. 
 		Á GitHub ætti nú að sjást commit með skilaboðunum 	"Remove cumin from chili" sem Sarah gerði. 
-		Nú eru tvö commit samtímis í gangi sem skapar árekstur sem þaf að leysa í næsta lið c)
+		Nú eru tvö commit samtímis í gangi sem skapar árekstur sem þaf að leysa í næsta lið c) 
 
 	c)  Merging local and remote changes
 
@@ -77,7 +77,7 @@ https://www.udacity.com/course/how-to-use-git-and-github--ud775
    		http://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344
 
 
-5)  Afritaðu allar spurningar úr skránni github_fra_kennara.txt í local repository, svaraðu þeim öllum og uppfærðu með push skipun á GitHub
+5)  Afritaðu allar spurningar úr skránni github_fra_kennara.txt í local repository, svaraðu þeim öllum og uppfærðu með push skipun á GitHub OK :D
 
 
 Námsmat og skil:
